@@ -1,6 +1,6 @@
 import java.util.*;
 
-int METENO_NUM = 40; // メテノの数
+int METENO_NUM = 30; // メテノの数
 Meteno[] metenos; // 配列を宣言
 Bebenomu bebenomu; //ベベノム
 int bSize = 200; //ベベノムの大きさ
